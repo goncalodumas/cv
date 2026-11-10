@@ -80,8 +80,6 @@ I appreciate thoughtful design, clear documentation, reliable tools, and work th
 
 I take my work seriously. Myself, considerably less so.
 
-I also believe that a sense of humour is essential, especially when things don't go according to plan.
-
 My approach to organisation could probably be described as a recurring cycle of Big Bang, Big Crunch, and occasional moments of remarkable order.
 
 *Rinse and repeat.*
