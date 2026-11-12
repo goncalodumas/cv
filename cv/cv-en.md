@@ -37,7 +37,7 @@ I value hands-on learning, thoughtful design, technical accuracy, and collaborat
 - Investigate technical issues affecting daily operations and participate in the design of internal information management solutions.
 
 **On-site IT Support — Daiichi Sankyo Portugal**  
-*Client assignment through Sermail | 2023 – Present*
+*Client assignment through WKIS | 2023 – Present*
 
 - Provide on-site IT assistance to office employees and field sales teams.
 - Troubleshoot workstation, software, connectivity, and user authentication issues.
